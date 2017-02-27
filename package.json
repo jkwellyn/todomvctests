@@ -1,0 +1,16 @@
+{
+  "name": "todo_tests",
+  "version": "1.0.0",
+  "description": "tests for Todo MVC angularjs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha TestSpecs.js"
+  },
+  "author": "jacqueline chiu",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.27.3",
+    "mocha": "^3.2.0",
+    "selenium-webdriver": "^3.1.0"
+  }
+}
